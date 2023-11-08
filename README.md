@@ -176,7 +176,10 @@ To see a run through of the application, click below:
 )
 
 <!-- AUTHORS -->
-## Authors
+Luca Breebart 221345@virtualwindow.co.za
+Dieter Roelofse 221122@virtualwindow.co.za
+Jarryd Carelse    221267@virtualwindow.co.za
+Emily Fulford    221075@virtualwindow.co.za
 
 * **Jarryd Carelse** 
 
