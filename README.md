@@ -13,7 +13,9 @@ Term 4 readme file with demonstration video
   <h3 align="center">DV200 Term 4</h3>
 
   <p align="center">
-Solebox is an ecommerce website designed for selling a variety of sneakers. It leverages a MongoDB database to provide product information and images to users. This platform is built using React.js, HTML, CSS, Bootstrap, and incorporates design work created with Figma. Solebox offers a wide range of sneakers for online shoppers, ensuring a seamless shopping experience.
+Welcome to our Q&A Platform named inshare designed to facilitate Open Window Development students' collaboration, learning, and knowledge-sharing. This README provides an overview of the project, its features, functionality, and the planning undertaken during its development. inShare Platform is tailored specifically for Open Window Development students, aiming to create a centralised space for asking questions, sharing insights, and fostering a community-driven learning environment. The theme revolves around simplicity, accessibility, and user engagement. We incorporated a orange and white themed platform for easy readability
+
+
 
  <br>
     
@@ -53,19 +55,21 @@ Solebox is an ecommerce website designed for selling a variety of sneakers. It l
 
 ### Project Description
 
-Solebox is an online destination for sneaker enthusiasts and fashion-conscious consumers. It allows users to explore, browse, and purchase a diverse collection of sneakers, ranging from classic styles to the latest releases. The website provides detailed information about each product, including images, descriptions, prices, and available sizes, ensuring that shoppers can make informed choices. Whether you're looking for the perfect pair of sneakers for your collection or a trendy addition to your wardrobe, Solebox has you covered.
+inShare is a dedicated Q&A platform designed to empower Open Window Development students with a centralized space for collaboration, learning, and knowledge-sharing. The platform fosters a dynamic and engaged community where students can ask questions, share insights, and enhance their learning experience. With a user-friendly orange and white theme that prioritizes simplicity and accessibility, inShare provides a space where students can connect, engage, and grow together.
 
 Technologies
 
-
 ### Built With
 
-* VS Code
-* React.js
-* MongoDB
-* Insomnia 
-* HTML/CSS
-* Figma
+* Figma - Design
+*VS code - Code
+*MongoDB- Database
+*Express.js - building restful APIs with Node.js
+*React App- Framework
+*Node.js - Node.js is a back-end JavaScript runtime environment 
+*Uploadcare - Image upload
+*Insomnia - Populating the database
+
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
@@ -95,7 +99,32 @@ bash
 Copy code
 npm start
 The website will be accessible at http://localhost:3000.
+
 <!-- FEATURES AND FUNCTIONALITY-->
+
+### 1. User Authentication:
+- Secure login/registration for students and faculty members.
+- User and Admin access
+
+### 2. Question and Answer Threads:
+- Students can post questions.
+- Answers can be provided by both peers and faculty.
+- Upvoting/downvoting system for answers.
+- Sorting and filtering options for better organisation.
+
+### 3. Categorization:
+- Categorisation of questions through tags.
+- Easy search functionality based on tags.
+
+### 4. Notifications and User Engagement:
+- Notification system for updates on answered questions, comments, and mentions.
+- User engagement features, such as commenting and direct messaging.
+
+### 5. User Profiles and Reputation:
+- User profiles highlighting questions asked, answered, and overall contributions.
+- Reputation points based on the quality and quantity of contributions.
+
+
 ![Alt text](login.png)
 
 <br>
@@ -121,30 +150,18 @@ The website will be accessible at http://localhost:3000.
 
 ## Development Process
 
-Technology Stack
+### Entity-Relationship Diagram (ERD):
+- Developed an ERD to map out the relationships between different entities (users, questions, answers, tags, etc.), assisting in database structuring and optimization.
 
-Back-end: PHP
-Database: MySQL (using XAMPP)
-Front-end: HTML, CSS, JavaScript
-Development Phases
+### Planning and Milestones:
+- Utilised agile methodology with sprints and milestones.
+- Regular meetings to evaluate progress and address any challenges.
+- Continuous testing and iterative development for optimal user experience.
 
-Ideation and Wireframing: Using Figma, the project's wireframes and user interface were designed to create a vision for the online store's look and feel.
-
-Database Integration: MongoDB was employed to store and manage product information and images. This facilitated dynamic product listings on the website.
-
-Front-end Development: React.js, HTML, and CSS were utilized to create the user interface. Bootstrap was employed for a responsive and visually appealing design.
-
-Ecommerce Functionality: Ecommerce features were implemented to enable users to browse products, view details, add items to the cart, and make secure payments.
-
-Testing and Quality Assurance: The website underwent rigorous testing to ensure it functioned flawlessly across different devices and browsers.
-
-#### Challenges
-##Challenges Faced
-
-*Data Management and Database Design:
-Designing a database schema for product information and images can be challenging, especially when dealing with a large number of products. Ensuring data consistency, integrity, and efficient queries in MongoDB may have required careful planning and consideration.
-
-*Responsive Design: Creating a responsive design that works well on various screen sizes and devices can be challenging. Ensuring that the website is user-friendly and visually appealing on both desktop and mobile platforms may have required extensive CSS and layout adjustments.
+## Tools and Technologies Used:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, MongoDB
+- Additional: Git for version control, Figma for design mockups, and Postman for API testing.
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
