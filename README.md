@@ -21,7 +21,8 @@ Welcome to our Q&A Platform named inshare designed to facilitate Open Window Dev
     
    <br />
    <br />
-   <a href="path/to/demonstration/video">View Demo</a>
+   [View Demonstration](https://drive.google.com/file/d/1SRyY6t6uHFiGs94oQHkb87CWsMyHb5Lw/view?usp=sharing
+)
     ·
     <a href="https://github.com/username/projectname/issues">Report Bug</a>
     ·
@@ -91,7 +92,7 @@ Install Dependencies:
 
 bash
 Copy code
-cd Solebox
+cd Inshare
 npm install
 Start the Development Server:
 
