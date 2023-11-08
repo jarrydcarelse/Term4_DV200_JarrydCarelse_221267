@@ -171,7 +171,7 @@ The website will be accessible at http://localhost:3000.
 
 To see a run through of the application, click below:
 
-[View Demonstration]https://drive.google.com/file/d/1SRyY6t6uHFiGs94oQHkb87CWsMyHb5Lw/view?usp=sharing
+[View Demonstration](https://drive.google.com/file/d/1SRyY6t6uHFiGs94oQHkb87CWsMyHb5Lw/view?usp=sharing
 )
 
 <!-- AUTHORS -->
