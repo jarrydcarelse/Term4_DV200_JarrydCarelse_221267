@@ -134,11 +134,11 @@ The website will be accessible at http://localhost:3000.
 
 <br>
 
-![Alt text](latest.png
+![Alt text](post.png
 )
 <br>
 
-![Alt text](cart.png
+![Alt text](edit.png
 )
 
 <br>
@@ -163,6 +163,14 @@ The website will be accessible at http://localhost:3000.
 - Backend: Node.js, Express, MongoDB
 - Additional: Git for version control, Figma for design mockups, and Postman for API testing.
 
+  <!-- Mockups--!>
+  
+![Alt text](1.png
+)
+![Alt text](2.png
+)
+![Alt text](3.png
+)
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
 
