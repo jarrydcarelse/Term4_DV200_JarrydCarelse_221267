@@ -80,7 +80,7 @@ The following instructions will get you a copy of the project up and running on 
 ### How to install
 
 ### Installation
-To run Solebox locally or contribute to the project, follow these steps:
+To run InShare locally or contribute to the project, follow these steps:
 
 Clone the Repository:
 
