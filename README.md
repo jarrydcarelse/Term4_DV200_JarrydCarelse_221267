@@ -143,11 +143,6 @@ The website will be accessible at http://localhost:3000.
 
 <br>
 
-![Alt text](check.png
-)
-
-
-
 ## Development Process
 
 ### Entity-Relationship Diagram (ERD):
